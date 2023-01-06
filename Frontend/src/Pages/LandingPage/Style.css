@@ -1,0 +1,24 @@
+.pagination-wrapper ul {
+  display: flex;
+  margin: 50px auto 30px;
+  justify-content: center;
+}
+.pagination-wrapper ul li {
+  background-color: #666;
+  border-radius: 5px;
+  color: #fff;
+  margin: 0 20px;
+  background-color: #666;
+}
+.pagination-wrapper ul li a {
+  padding: 40px 20px;
+}
+
+.pagination-wrapper ul li:hover {
+  background-color: #000;
+}
+.pagination-wrapper ul li.previous,
+.pagination-wrapper ul li.next {
+  border-radius: 20px;
+  text-transform: capitalize;
+}

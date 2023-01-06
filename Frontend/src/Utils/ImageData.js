@@ -1,0 +1,17 @@
+export const imageData = [
+    { url: ' https://wp-assets.futurism.com/2021/09/spacex-rocket-all-tourist-launchpad.jpg' },
+    { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Chandra_artist_illustration.jpg/1200px-Chandra_artist_illustration.jpg' },
+    { url: 'https://media.gettyimages.com/id/1216521439/photo/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-companys-crew-dragon-spacecraft.jpg?s=612x612&w=gi&k=20&c=I5KIYuMFeZlB5d656MuS3EUroqQFudAgkiX3HGEItdY=' },
+    { url: ' https://cdn.arstechnica.net/wp-content/uploads/2021/07/UNITY-2_6.00_37_55_04.Still001.jpg' },
+    { url: 'https://cdn.arstechnica.net/wp-content/uploads/2022/10/50219312327_0f936ebfd8_k-800x561.jpg' },
+    { url: ' https://media.gettyimages.com/id/1236403254/photo/the-spacex-falcon-9-rocket-with-the-manned-crew-dragon-spacecraft-attached-takes-off-from.jpg?s=612x612&w=gi&k=20&c=rulrnK2vIHvaOspcDd6nk_lqaA9A1OhoTDzgW0Lrlqg=' },
+    { url: ' https://cdn.mos.cms.futurecdn.net/P6Qy9QgewcweJpsXjG2tzL.jpg' },
+    { url: ' https://thumbs.dreamstime.com/b/crew-dragon-spacecraft-private-american-company-spacex-space-capable-carrying-up-to-passengers-earth-orbit-185040427.jpg' },
+    { url: ' https://media.architecturaldigest.com/photos/60426252993888ff3d26b159/16:9/w_1280,c_limit/20-1223%20Voyager%20Station.jpg' },
+    { url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsynrrdIcDs1dPNzfLK1Y-8pe0pqRTuxZPA&usqp=CAU' },
+    { url: ' https://media.gettyimages.com/id/1236403254/photo/the-spacex-falcon-9-rocket-with-the-manned-crew-dragon-spacecraft-attached-takes-off-from.jpg?s=612x612&w=gi&k=20&c=rulrnK2vIHvaOspcDd6nk_lqaA9A1OhoTDzgW0Lrlqg=' },
+    { url: ' https://cdn.mos.cms.futurecdn.net/P6Qy9QgewcweJpsXjG2tzL.jpg' },
+    { url: ' https://thumbs.dreamstime.com/b/crew-dragon-spacecraft-private-american-company-spacex-space-capable-carrying-up-to-passengers-earth-orbit-185040427.jpg' },
+    { url: ' https://media.architecturaldigest.com/photos/60426252993888ff3d26b159/16:9/w_1280,c_limit/20-1223%20Voyager%20Station.jpg' },
+    { url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsynrrdIcDs1dPNzfLK1Y-8pe0pqRTuxZPA&usqp=CAU' },
+]
